@@ -1,0 +1,2 @@
+# gidemo
+this is the readme file for git repository
